@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebzz12
 - 👀 I’m interested in Python, R, Java, Datasets and Machine Learning 
-- 🌱 I’m currently learning Data Science & Analyticsjkk.msa.,mwx
+- 🌱 I’m currently learning Data Science & Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
